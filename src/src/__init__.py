@@ -1,0 +1,3 @@
+"""
+HealthScope package initialization.
+"""
